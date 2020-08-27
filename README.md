@@ -1,3 +1,1 @@
-# Completed Project: Building Lists and Navigation
-
-Explore the completed project for the [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation) tutorial.
+Take a tour of some of the cool things to see in the Texas hill country. This app is interactive and allows the user to select one of the landmarks and see a geographic location using the coordinates of the latitude and longitude through Apple Maps as well as have a button called "Show Details" that when clicked on, provides information about the particular landmark.
