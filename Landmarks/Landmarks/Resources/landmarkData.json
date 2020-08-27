@@ -1,0 +1,217 @@
+[
+    {
+        "name": "Barton Creek Greenbelt",
+        "category": "Featured",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1001,
+        "park": "Austin Parks and Recreation",
+        "coordinates": {
+            "longitude": -97.7710,
+            "latitude": 30.2648
+        },
+        "imageName": "bartoncreekgreenbelt"
+    },
+    {
+        "name": "Boerne Lake",
+        "category": "Lakes",
+        "city": "Boerne",
+        "state": "Texas",
+        "id": 1002,
+        "park": "Boerne Lakes",
+        "coordinates": {
+            "longitude": -98.733561,
+            "latitude": 29.785893
+        },
+        "imageName": "boernelake"
+    },
+    {
+        "name": "Brushy Creek Regional Trail",
+        "category": "Lakes",
+        "city": "Cedar Park",
+        "state": "Texas",
+        "id": 1003,
+        "park": "Cedar Park Parks",
+        "coordinates": {
+            "longitude": -97.18521,
+            "latitude": 30.514874
+            
+        },
+        "imageName": "brushycreekregionalpark"
+    },
+    {
+        "name": "Friedrich Wilderness Park",
+        "category": "Featured",
+        "city": "San Antonio",
+        "state": "Texas",
+        "id": 1004,
+        "park": "San Antonio Parks and Recreation",
+        "coordinates": {
+            "longitude": -98.6319662,
+            "latitude": 29.6368923
+        },
+        "imageName": "friedrichwildernesspark"
+    },
+    {
+        "name": "Georgetown Historic Downtown",
+        "category": "Featured",
+        "city": "Georgetown",
+        "state": "Texas",
+        "id": 1005,
+        "park": "Historic Downtown",
+        "coordinates": {
+            "longitude":  -97.677986,
+            "latitude": 30.633263
+        },
+        "imageName": "historicdowntown"
+    },
+    {
+        "name": "Mount Bonnell",
+        "category": "Rivers",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1006,
+        "park": "Austin Parks and Recreation",
+        "coordinates": {
+            "longitude":  -97.7736,
+            "latitude": 30.3210
+        },
+        "imageName": "mountbonnell"
+    },
+    {
+        "name": "Pennybacker Bridge",
+        "category": "Featured",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1007,
+        "park": "City of Austin",
+        "coordinates": {
+            "longitude": -97.800174,
+            "latitude": 30.347057
+        },
+        "imageName": "360bridge"
+    },
+    {
+        "name": "The Round Rock",
+        "category": "Featured",
+        "city": "Round Rock",
+        "state": "Texas",
+        "id": 1008,
+        "park": "Round Rock Parks",
+        "coordinates": {
+            "longitude": -97.6789,
+            "latitude": 30.50826
+        },
+        "imageName": "roundrock"
+    },
+    {
+        "name": "St.Edward's Park",
+        "category": "Featured",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1009,
+        "park": "Austin Parks and Recreation",
+        "coordinates": {
+            "longitude": -97.7913,
+            "latitude": 30.4055
+        },
+        "imageName": "stedwardspark"
+    },
+    {
+        "name": "Walnut Creek Metropolitan Park",
+        "category": "Featured",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1010,
+        "park": "Austin Parks and Recreation",
+        "coordinates": {
+            "longitude": -97.6864,
+            "latitude": 30.4008
+        },
+        "imageName": "walnutcreek"
+    },
+    {
+        "name": "River Place Nature Trail",
+        "category": "Rivers",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1011,
+        "park": "Austin Parks and Recreation",
+        "coordinates": {
+            "longitude": -97.8567,
+            "latitude": 30.3738
+        },
+        "imageName": "riverplace"
+    },
+    {
+        "name": "Lost Maples State Natural Area",
+        "category": "Featured",
+        "city": "Vanderpool",
+        "state": "Texas",
+        "id": 1012,
+        "park": "Texas State Parks",
+        "coordinates": {
+            "longitude": -99.57728,
+            "latitude": 29.807719
+        },
+        "imageName": "lostmaples"
+        
+        
+    },
+    {
+        "name": "McKinney Falls State Park",
+        "category": "Featured",
+        "city": "Austin",
+        "state": "Texas",
+        "id": 1013,
+        "park": "Texas State Parks",
+        "coordinates": {
+            "longitude": -97.72232,
+            "latitude": 30.180646
+        },
+        "imageName": "mckinneyfalls"
+    },
+    
+    {
+    "name": "Guadalupe River State Park",
+    "category": "Featured",
+    "city": "Spring Branch",
+    "state": "Texas",
+    "id": 1014,
+    "park": "Texas State Parks",
+    "coordinates": {
+        "longitude": -98.504165,
+        "latitude": 29.853389
+    },
+    "imageName": "guadaluperiver"
+    },
+    
+    {
+    "name": "Enchanted Rock",
+    "category": "Featured",
+    "city": "Fredericksburg",
+    "state": "Texas",
+    "id": 1015,
+    "park": "Texas State Parks",
+    "coordinates": {
+        "longitude": -98.819952,
+        "latitude": 30.496033
+    },
+    "imageName": "enchantedrock"
+    },
+    {
+    "name": "Canyon Lake",
+    "category": "Lakes",
+    "city": "Canyon Lake",
+    "state": "Texas",
+    "id": 1016,
+    "park": "Texas State Parks",
+    "coordinates": {
+        "longitude": -98.254852,
+        "latitude": 29.887686
+    },
+    "imageName": "canyonlake"
+    },
+    
+]
+
